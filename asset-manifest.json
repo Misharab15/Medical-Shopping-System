@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Medical-Shopping-System/static/css/main.e5124b02.css",
+    "main.css": "/Medical-Shopping-System/static/css/main.21a09afa.css",
     "main.js": "/Medical-Shopping-System/static/js/main.b1e03189.js",
     "static/js/453.a01e38b0.chunk.js": "/Medical-Shopping-System/static/js/453.a01e38b0.chunk.js",
     "static/media/covid-image.png": "/Medical-Shopping-System/static/media/covid-image.c4cec68f00daf8d33eb9.png",
@@ -27,12 +27,12 @@
     "static/media/logo.png": "/Medical-Shopping-System/static/media/logo.301a0c7d4f71ba7f004b.png",
     "static/media/cardiology-image.jfif": "/Medical-Shopping-System/static/media/cardiology-image.cc4154b086e62d9f9261.jfif",
     "index.html": "/Medical-Shopping-System/index.html",
-    "main.e5124b02.css.map": "/Medical-Shopping-System/static/css/main.e5124b02.css.map",
+    "main.21a09afa.css.map": "/Medical-Shopping-System/static/css/main.21a09afa.css.map",
     "main.b1e03189.js.map": "/Medical-Shopping-System/static/js/main.b1e03189.js.map",
     "453.a01e38b0.chunk.js.map": "/Medical-Shopping-System/static/js/453.a01e38b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5124b02.css",
+    "static/css/main.21a09afa.css",
     "static/js/main.b1e03189.js"
   ]
 }
